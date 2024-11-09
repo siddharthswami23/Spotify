@@ -11,6 +11,7 @@ const volumeslider = document.getElementById("volumeslider");
 let currentsongindex = 0;
 
 const songs = [
+  { name: "laare", src: "assests/songs/laare.mp3" },
   { name: "Husn", src: "assests/songs/Husn.mp3" },
   { name: "Tu Hai Kahan", src: "assests/songs/Tu_Hai_Kahan.mp3" },
   { name: "Aam Jahe Munde", src: "assests/songs/AamJaheMunde.mp3" },
