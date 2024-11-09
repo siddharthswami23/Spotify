@@ -38,8 +38,7 @@ const songs = [
 
   { name: "Maula Maula", src: "assests/songs/Maula Maula.mp3" },
   { name: "pheli Dafa", src: "assests/songs/pheli Dafa.mp3" },
-  { name: "Rang Lageya", src: "assests/songs/Rang Lageya.mp3" },
-  { name: "Channa Ve", src: "assests/songs/Channa Ve.mp3" },
+  { name: "Rang Lageya", src: "assests/songs/Rang Lageya.mp3" }
 ];
 
 function playsong() {
